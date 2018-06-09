@@ -1,5 +1,5 @@
 # ConsultPub
 
-- Tryout options for the consulting program, the public part  
+- Create a public git webpage for the consulting program
 - Set up project repositories  
-- Connection to the department [consulting page]{http://www.stat.uchicago.edu/consulting/index.shtml}
+- Connection to the department [consulting page]{http://www.stat.uchicago.edu/consulting/}
